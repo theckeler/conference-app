@@ -1,6 +1,6 @@
 # conference-app
 
-Here will be some information about the app.
+Working with Salesforce Trailhead to create this app in my Dev account
 
 ## How to start?
 
